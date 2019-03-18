@@ -1,2 +1,2 @@
 git tutorial
-
+commit: Lưu lại trạng thái của index
