@@ -2,4 +2,9 @@ git tutorial
 test 1
 pull
 commit: Lưu lại trạng thái của index
+test pull
+branch 1
+branch 1 - a
+branch 1 - b
 test fetch
+
