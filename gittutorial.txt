@@ -4,3 +4,6 @@ test pull
 branch 1
 branch 1 - a
 branch 1 - b
+test1
+test2
+commit 1
