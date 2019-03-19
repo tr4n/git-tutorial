@@ -2,4 +2,4 @@ git tutorial
 test 1
 pull
 commit: Lưu lại trạng thái của index
-
+test fetch
